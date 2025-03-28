@@ -1,6 +1,6 @@
 # Fake News
 
-A logistic classification model that classifies articles to fake and reliable. 
+A logistic classification model that classifies articles into fake and reliable. 
 
 ---
 
