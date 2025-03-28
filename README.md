@@ -34,17 +34,17 @@ Before you start, ensure you have the following installed:
 For the program to work, the data needs to be downloaded and placed in the same directory as the rest of the other files. 
 You can get the Fake News Corpus subset in the link below:
 https://raw.githubusercontent.com/several27/FakeNewsCorpus/master/news_sample.csv 
-All other data files are in the respiratory
+All other data files are in the repository
 ([Scraped data](CBS_bbc_scraped_articles.csv), [test data](test.tsv) and the Fake News corpus)
 
 ## File description 
 
 [Part1Task1](Part1Task1.ipynb) This file cleans, tokenizes and stemmes a subset of the whole dataset. 
 [Part1Task2](Part1Task2.ipynb) This file preprocesses the entire Fake News Corpus. 
-[Part1Task3](Part1Task3.ipynb) This file distributes the preprocessed data. 
+[Part1Task3](Part1Task3.ipynb) This file explores and visualizes the preprocessed data. 
 [Part1Task4](Part1Task4.ipynb) This file splits the data set into training, validation and test data. 
-[Part2Task1-3](Part2Task1-3.ipynb) This file designs a simple logistic regression model which is trained with training data and evaluated in both validation and test, together with a performance evaluation on LIAR dataset. 
-[Part3](Part3.ipynb) This file designs an advanced logistic regression with feature engineering and grid searchCV. The model is then trained with training data and testes with validation and test data. The model is also evaluated in with a peformance measure on the LIAR dataset. 
+[Part2Task1-3](Part2Task1-3.ipynb) This file designs a simple logistic regression model, which is trained with training data and evaluated in both validation and test, together with a performance evaluation on LIAR dataset. 
+[Part3](Part3.ipynb) This file designs an advanced logistic regression with feature engineering and GridSearchCV. The model is then trained with training data and tested with validation and test data. The model is also evaluated with a peformance measure on the LIAR dataset. 
 [Part4Task2](Part4Task2.ipynb) This file contains LIAR dataset and preprocesses it together with an evaluation with the advanced model. 
 
 ## Running the Notebooks
