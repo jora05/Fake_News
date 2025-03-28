@@ -35,7 +35,7 @@ For the program to work, the data needs to be downloaded and placed in the same 
 You can get the Fake News Corpus subset in the link below:
 https://raw.githubusercontent.com/several27/FakeNewsCorpus/master/news_sample.csv 
 All other data files are in the respiratory
-([Scraped data]CBS_bbc_scraped_articles.csv, [test data](test.tsv) and the Fake News corpus)
+([Scraped data](CBS_bbc_scraped_articles.csv), [test data](test.tsv) and the Fake News corpus)
 
 ## File description 
 
