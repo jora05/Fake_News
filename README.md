@@ -41,7 +41,7 @@ All other data files are in the repository
 
 [Part1Task1](Part1Task1.ipynb) This file cleans, tokenizes and stemmes a subset of the whole dataset. \
 [Part1Task2](Part1Task2.ipynb) This file preprocesses the entire Fake News Corpus. \
-[Part1Task3](Part1Task3.ipynb) This file explores and visualizes the preprocessed data. \ 
+[Part1Task3](Part1Task3.ipynb) This file explores and visualizes the preprocessed data. \
 [Part1Task4](Part1Task4.ipynb) This file splits the data set into training, validation and test data. \
 [Part2Task1-3](Part2Task1_-_3.ipynb) This file designs a simple logistic regression model, which is trained with training data and evaluated in both validation and test, together with a performance evaluation on LIAR dataset. \
 [Part3](Part3.ipynb) This file designs an advanced logistic regression with feature engineering and GridSearchCV. The model is then trained with training data and tested with validation and test data. The model is also evaluated with a peformance measure on the LIAR dataset. \
